@@ -14,6 +14,6 @@
 - Keras 2.8.0
 - Ipython 7.19.0
 - PC Configuration used:
-  -Operating System: Windows 10 PRO
-  -RAM: 16.0 GB RAM
+  *Operating System: Windows 10 PRO
+  *RAM: 16.0 GB RAM
   
