@@ -24,9 +24,18 @@
 # Code Execution
 **The Execution is very easy, first, clone this github repository, then code(s) of three models will be availble in their respective folder, just run the .ipynb file of each model(s) in google colab or jupiter notebook.**  
 
-# Citation
+# Licensing
 
-**Please cite the following paper when using this code:
+**[https://www.freecodecamp.org/news/how-open-source-licenses-work-and-how-to-add-them-to-your-projects-34310c3cf94/](https://www.freecodecamp.org/news/how-open-source-licenses-work-and-how-to-add-them-to-your-projects-34310c3cf94/)**
+**(Can get after creating the repo on Gitlab) - Use Apache License 2.0, MIT license, General Public License as you wish**
+
+# Contributors
+**[Mohammad Sakib Hossain]()**
+**[Md Jahid Hasan]()**
+
+
+# Cite this work/paper
+Please cite the following paper when using this code:
 ```bibtex
 @INPROCEEDINGS{10114510,
   author={Hasan, Md Jahid and Hossain, Mohammad Sakib and Hassan, S.M. Nazmul and Al-Amin, Mohammad and Rahaman, Md. Nakib and Pranjol, Mashuk Arefin},
@@ -38,12 +47,7 @@
   pages={1-7},
   keywords={Support vector machines;Emotion recognition;Speech recognition;Ear;Feature extraction;Mel frequency cepstral coefficient;Artificial intelligence;Bi-LSTM;MLP classifier;SUBESCO;MFCC;Bangla Speech},
   doi={10.1109/ICECTE57896.2022.10114510}
-}**
-
-# Licensing
-
-**[https://www.freecodecamp.org/news/how-open-source-licenses-work-and-how-to-add-them-to-your-projects-34310c3cf94/](https://www.freecodecamp.org/news/how-open-source-licenses-work-and-how-to-add-them-to-your-projects-34310c3cf94/)**
-**(Can get after creating the repo on Gitlab) - Use Apache License 2.0, MIT license, General Public License as you wish**
+}
 
 
 
