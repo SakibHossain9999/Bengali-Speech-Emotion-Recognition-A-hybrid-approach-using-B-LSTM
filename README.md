@@ -19,5 +19,5 @@
   * Processor: AMD Ryzen 5 3600 6-Core Processor 3.60 GHz
 
  # Installation Deatils
- ** !pip install IPython
+ **!pip install IPython
   
