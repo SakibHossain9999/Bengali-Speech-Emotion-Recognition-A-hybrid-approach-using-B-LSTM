@@ -17,4 +17,7 @@
   * Operating System: Windows 10 PRO 64-bit
   * RAM: 16.0 GB RAM
   * Processor: AMD Ryzen 5 3600 6-Core Processor 3.60 GHz
+
+ # Installation Deatils
+ ** !pip install IPython
   
