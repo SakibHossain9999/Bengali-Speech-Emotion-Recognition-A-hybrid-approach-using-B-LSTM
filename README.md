@@ -41,3 +41,12 @@ Please cite the following paper when using this code:
   doi={10.1109/ICECTE57896.2022.10114510}
 }
 
+# Licensing
+
+**[https://www.freecodecamp.org/news/how-open-source-licenses-work-and-how-to-add-them-to-your-projects-34310c3cf94/](https://www.freecodecamp.org/news/how-open-source-licenses-work-and-how-to-add-them-to-your-projects-34310c3cf94/)**
+**(Can get after creating the repo on Gitlab) - Use Apache License 2.0, MIT license, General Public License as you wish**
+
+
+
+
+
