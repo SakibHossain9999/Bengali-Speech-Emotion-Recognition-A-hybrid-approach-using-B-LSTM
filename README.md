@@ -22,4 +22,4 @@
  **!pip install IPython**
 
 # Code Execution
-** The Execution is very easy, first, clone this github repository, then code(s) of three models will be availble in their respective folder, just run the .ipynb file of each model(s) in google colab or jupiter notebook.   
+**The Execution is very easy, first, clone this github repository, then code(s) of three models will be availble in their respective folder, just run the .ipynb file of each model(s) in google colab or jupiter notebook.**  
