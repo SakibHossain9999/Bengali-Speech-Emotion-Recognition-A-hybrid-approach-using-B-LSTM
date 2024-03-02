@@ -48,8 +48,3 @@ Please cite the following paper when using this code:
   keywords={Support vector machines;Emotion recognition;Speech recognition;Ear;Feature extraction;Mel frequency cepstral coefficient;Artificial intelligence;Bi-LSTM;MLP classifier;SUBESCO;MFCC;Bangla Speech},
   doi={10.1109/ICECTE57896.2022.10114510}
 }
-
-
-
-
-
