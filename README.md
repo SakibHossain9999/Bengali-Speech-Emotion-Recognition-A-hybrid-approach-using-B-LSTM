@@ -26,8 +26,7 @@
 
 # Citation
 
-Please cite the following paper when using this code:
-
+**Please cite the following paper when using this code:
 ```bibtex
 @INPROCEEDINGS{10114510,
   author={Hasan, Md Jahid and Hossain, Mohammad Sakib and Hassan, S.M. Nazmul and Al-Amin, Mohammad and Rahaman, Md. Nakib and Pranjol, Mashuk Arefin},
@@ -39,7 +38,7 @@ Please cite the following paper when using this code:
   pages={1-7},
   keywords={Support vector machines;Emotion recognition;Speech recognition;Ear;Feature extraction;Mel frequency cepstral coefficient;Artificial intelligence;Bi-LSTM;MLP classifier;SUBESCO;MFCC;Bangla Speech},
   doi={10.1109/ICECTE57896.2022.10114510}
-}
+}**
 
 # Licensing
 
