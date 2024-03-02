@@ -10,14 +10,10 @@
 
 # System Requirements
 - Python 3.7 - (All the files from the source code are written in python hence .ipynb file)
-- PyTorch
-- nltk
-- kutils 0.3.0.
-- gensim
-- pyLDAvis
-- PyNonpar
-- Pingouin
 - Tensorflow 2.8.0
 - Keras 2.8.0
-- Operating System: Windows 10 Home
-- PC configuration: 16.0 GB RAM
+- Ipython 7.19.0
+- PC Configuration used:
+  -Operating System: Windows 10 PRO
+  -RAM: 16.0 GB RAM
+  
