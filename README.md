@@ -14,6 +14,7 @@
 - Keras 2.8.0
 - Ipython 7.19.0
 - PC Configuration used:
-  * Operating System: Windows 10 PRO
+  * Operating System: Windows 10 PRO 64-bit
   * RAM: 16.0 GB RAM
+  * Processor: AMD Ryzen 5 3600 6-Core Processor 3.60 GHz
   
