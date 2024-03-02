@@ -27,6 +27,7 @@
 # Licensing
 
 **[https://www.freecodecamp.org/news/how-open-source-licenses-work-and-how-to-add-them-to-your-projects-34310c3cf94/](https://www.freecodecamp.org/news/how-open-source-licenses-work-and-how-to-add-them-to-your-projects-34310c3cf94/)**
+
 **(Can get after creating the repo on Gitlab) - Use Apache License 2.0, MIT license, General Public License as you wish**
 
 # Contributors
