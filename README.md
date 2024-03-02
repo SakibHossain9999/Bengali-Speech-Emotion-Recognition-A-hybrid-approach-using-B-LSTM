@@ -30,8 +30,8 @@
 **(Can get after creating the repo on Gitlab) - Use Apache License 2.0, MIT license, General Public License as you wish**
 
 # Contributors
-**[Mohammad Sakib Hossain]()**
-**[Md Jahid Hasan]()**
+- [Mohammad Sakib Hossain](https://github.com/SakibHossain9999)
+- [Md Jahid Hasan]()
 
 
 # Cite this work/paper
