@@ -6,7 +6,7 @@ This repo contains the implementation of [**Paper**](https://ieeexplore.ieee.org
 **Abstract: Bengali Speech Emotion recognition is one of the major outstanding and novel pieces of work in Bengali signal processing and the field of Bengali Artificial Intelligence (AI). The audio of human speech consists of various tones from the cochlea and vocal cords. Mel-Frequency Cepstral Coefficients (MFCC), Chroma, Gamma-Frequency Cepstral Coefficients (GFCC), and Mel Spectrogram are already state-of-the-art techniques to extract various features from human speech audio. In our study, MFCC, Chroma, and Mel-Spectrogram techniques are used to extract the features for each audio on a Bengali speech audio corpus, i.e., “SUST Bengali Emotional Speech Corpus (SUBESCO)” since no other study has used all 3 features together yet. Besides, a novel model using Bidirectional Long Short Term Memory (Bi-LSTM) is proposed using these extracted features to detect different emotions in the Bengali speech corpus. Finally, our proposed model shows an overall accuracy of 83.33% with better average precision and f1-score than the Support Vector Machine (SVM) classifier and Multi-Layer Perceptron (MLP) Classifier in detecting 7 different emotion classes.**
 
 # DATASET
-**[SUBESCO]**
+**[SUBESCO](https://www.kaggle.com/datasets/sushmit0109/subescobangla-speech-emotion-dataset/data)**
 
 # System Requirements
 - Python 3.7 - (All the files from the source code are written in python hence .ipynb file)
