@@ -26,9 +26,7 @@ This repo contains the implementation of [**Paper**](https://ieeexplore.ieee.org
 
 # Licensing
 
-**[https://www.freecodecamp.org/news/how-open-source-licenses-work-and-how-to-add-them-to-your-projects-34310c3cf94/](https://www.freecodecamp.org/news/how-open-source-licenses-work-and-how-to-add-them-to-your-projects-34310c3cf94/)**
-
-**(Can get after creating the repo on Gitlab) - Use Apache License 2.0, MIT license, General Public License as you wish**
+**This project is licensed under the MIT License, a permissive open-source license that allows others to use, modify, and distribute the project's code with very few restrictions. This license can benefit research by promoting collaboration and encouraging the sharing of ideas and knowledge. With this license, researchers can build on existing code to create new tools, experiments, or projects, and easily adapt and customize the code to suit their specific research needs without worrying about legal implications. The open-source nature of the MIT License can help foster a collaborative research community, leading to faster innovation and progress in their respective fields. Additionally, the license can help increase the visibility and adoption of the project, attracting more researchers to use and contribute to it**
 
 # Contributors
 - [Mohammad Sakib Hossain](https://github.com/SakibHossain9999)
